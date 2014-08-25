@@ -1,6 +1,4 @@
+## XMD
 
-## e**X**tended r **M**ark**D**own
-
-
-This is a project blah...
+e**X**tended r **M**ark**D**own
 
