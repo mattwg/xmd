@@ -1,6 +1,6 @@
 ## XMD
 
-XMD stands for e<b>X</b>tended R <b>M</b>ark<b>D</b>own.
+XMD stands for e<b>X</b>tended R <b>M</b>ark<b>D</b>own.  XMD extends the accessibility to R and RMarkdown scripts beyond the domain of R experts and closer to business users.  It also provides a convenient infrastructure to deploy RMarkdown scripts for repeated execution and scheduling.
 
 [RMarkdown](http://rmarkdown.rstudio.com/) powered by [knitr](http://yihui.name/knitr/) are very cool tools for data scientists working in [R](http://www.r-project.org/) - and in particular [R Studio](http://www.rstudio.com/).
 
