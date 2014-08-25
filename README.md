@@ -26,6 +26,8 @@ XMD is not:
 
 Hope that explains what XMD is - I have a working prototype running - this project is about rewriting it and sharing it with the wider community.  There were too many hacks in XMD1.0 ;-)
 
+I also want to rewrite the entire server using Python - I chose Perl first time round but my trendy colleagues don't have experience in that - Python is more  cool from a data science point of view than Perl!  
+
 Cheers,
 Matt
 
