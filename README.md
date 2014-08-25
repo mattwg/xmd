@@ -22,7 +22,7 @@ XMD is not:
 * A tool for writing RMarkdown code
 * A business intelligence tool 
 * A replacement for R, RMarkdown or knitr
-* Anything to do with XML
+* Anything to do with XML!
 
 Hope that explains what XMD is - I have a working prototype running - this project is about rewriting it and sharing it with the wider community.  There were too many hacks in XMD1.0 ;-)
 
