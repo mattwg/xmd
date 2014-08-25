@@ -10,7 +10,7 @@ _"R Markdown is an authoring format that enables easy creation of dynamic docume
 
 XMD is the server infrastructure that supports the following User Stories:
 
-* As a data scientist I would like to enable colleagues and collaborators with limited or no experience of R to be able to rerun my RMarkdown scripts and generate HTML reports so that they can self serve and run parameterised analytic processes without my help 
+* As a data scientist I would like to enable colleagues and collaborators with limited or no experience of R to be able to rerun my RMarkdown scripts (which generate HTML output) so that they can self serve and run parameterised analytic processes without my help 
 * As a data scientist I would like to be able to schedule any data munging, statistical modelling or visualisation process in the language in which I created it (R obviously!) so that I can be more productive and not have to rework and revalidate code in the languages of production
 * As a data scientist I produce lots of RMarkdown scripts and I want to publish them to XMD as quickly as seamlessly as possible without having to log in to the server or execute any manual process - one command to deploy!I might be a good data scientist but my Unix / Ubuntu admin skills and web development skills are limited and whilst I can do it these tasks waste a lot of my time
 * As a data scientist who works with big data my analysis processes often take a long time to run - when a user runs an XMD process I want to provide users with email updates as the job executes so they can start the job and forget about it confident in the knowledge that it is running
